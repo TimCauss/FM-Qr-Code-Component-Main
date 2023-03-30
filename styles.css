@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100&display=swap');
+
+
+a {
+    color: hsl(228, 45%, 44%);
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.card {
+    width: 300px;
+    background-color: white;
+    align-items: center;
+    margin: 5% auto;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.img_container {
+}
+
+.img_container img {
+    width: 90%;
+    border-radius: 10px;
+}
